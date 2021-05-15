@@ -5,7 +5,7 @@
 - 🔭 I’m passionate about learning and helping others. Always open to new challenges
 
 ### More about me
- <div>
+ <div display='flex'>
   <a href="https://github.com/sofiadinizms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiadinizms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiadinizms&layout=compact&langs_count=16&theme=dracula"/>
