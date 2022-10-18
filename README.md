@@ -1,7 +1,7 @@
 # Hey 👋
 - 😄 My name is Sofia Diniz
-- 💻 I'm an Information Systems student at UFPE and Software Manager at CITi
-- 🌱 I’m currently learning more about JS and Python
+- 💻 I'm an Information Systems student at UFPE and iOS Student at Apple Developer Academy
+- 🌱 I’m currently learning more about JS, Python and Swift
 - 🔭 I’m passionate about learning and helping others. Always open to new challenges
 
 ### More about me
